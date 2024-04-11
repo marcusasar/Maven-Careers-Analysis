@@ -9,4 +9,4 @@ US Labor Statistics: The primary dataset used for this project is in [Data Folde
 
 ### Tools Used
 
-- **Excel:** 
+- **Excel:** The was used for the whole project.
