@@ -5,4 +5,4 @@ A dashboard built for an upcoming round of schools visits.
 
 ### Data Sources
 
-US Labor Statistics: The primary dataset used for this project is [Data Folder](US_Labor_Statistics)
+US Labor Statistics: The primary dataset used for this project is [Data Folder](US_Labor_Statistics.xlsx)
