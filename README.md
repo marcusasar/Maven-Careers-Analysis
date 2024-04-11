@@ -6,3 +6,7 @@ I created a dashboard that seniors can use to explore wage and employement trend
 ### Data Sources
 
 US Labor Statistics: The primary dataset used for this project is in [Data Folder](Data)
+
+### Tools Used
+
+- **Excel:** 
